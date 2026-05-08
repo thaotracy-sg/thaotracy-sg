@@ -1,52 +1,96 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Hi,+I'm+Tracy+Nguyen;Growth+Marketing+Architect;Data+Analytics+Specialist;Turning+Data+into+Growth+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+DAX" alt="Typing SVG" />
+  https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;Data+Analytics+%7C+Former+Growth+Marketer;Turning+Data+into+Business+Impact;SQL+%7C+Python+%7C+Power+BI
 </p>
+
+---
+
+## 🎓 Education
+
+🎓 *Master’s in Data Analytics & Visualization*  
+Singapore University of Social Sciences (2025–2026)
+
+- Focus: SQL, Python, Power BI, Business Intelligence  
+- Specialized in translating data into actionable insights  
+- Strong foundation in statistical analysis & dashboard development  
+
+---
 
 ## 🚀 About Me
 
-[cite_start]**Growth Marketing Expert** with 10+ years of regional experience, now specializing in **Data Analytics** to solve complex business problems.
+📊 Data-driven professional with *10+ years in Growth Marketing across Southeast Asia*, now specializing in Data Analytics  
 
-* [cite_start]🎓 **Master's in Data Analytics** – Singapore University of Social Sciences (2025–2026)[cite: 13, 98].
-* [cite_start]💼 **Business Support Intern at embecta** – Healthcare domain specialization[cite: 16, 18].
-* [cite_start]📊 **10+ Years in Growth** – Managed $1.5M portfolios and generated $250K+ in revenue[cite: 31].
-* [cite_start]🎯 **Strategic Pivot** – Bridging the gap between multi-channel marketing and statistical modeling.
+💼 Business Support Intern @ embecta (Healthcare Analytics & BI)  
+
+🌏 Experience across Singapore, Vietnam, Malaysia, Indonesia  
+
+📈 Key highlights:
+- Generated *$250K+ revenue* and managed *$1.5M portfolio*
+- Designed *Power BI dashboards across 7 markets*
+- Optimized funnels and drove ROI through data  
+
+🎯 Passionate about *bridging business strategy with data-driven decision-making*
 
 ---
 
 ## 📊 Featured Projects
 
-### 📈 Regional Sales Intelligence (Healthcare)
-* [cite_start]**Impact:** Redesigned Power BI dashboards for **7 SEA markets** (SG, MY, TH, VN, ID, PH, PK)[cite: 18].
-* [cite_start]**Insight:** Identified gaps through stakeholder interviews to create a "Single Source of Truth" for regional leaders[cite: 18].
-* [cite_start]**Tech:** `Power BI` `DAX` `Market Intelligence`[cite: 19, 24].
+### 📈 Regional Sales Dashboard (Power BI)
+- Built dashboards across *7 SEA markets*
+- Automated reporting & improved visibility for leadership  
 
-### 🤖 AI Transition & Workforce Analytics
-* **Focus:** Researching the readiness of the **Singapore workforce** for AI integration.
-* **Methodology:** Analyzing skill proximity for professionals in Engineering and Data roles.
-* **Tech:** `SQL` `Python` `Source Mapping`.
+---
+
+### 💰 Growth Marketing Analytics
+- Analyzed multi-channel campaigns (GA4, Ads, CRM)  
+- Improved conversion rates through data insights  
+
+---
+
+### 📊 Market Intelligence & Pricing Analysis
+- Conducted pricing research (SG & MY)  
+- Delivered insights to support product launch strategy  
 
 ---
 
 ## 🧰 Technical Toolkit
 
-| **Data Visualization** | **Programming & DB** | **Growth & Marketing** |
-| :--- | :--- | :--- |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Meta](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white) |
-| ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) |
-| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![GTM](https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white) |
+### 📊 Data & Analytics
+https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi  
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql  
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python  
+https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel  
+
+### 📈 Marketing & Growth
+https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics  
+https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook  
+https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads  
+https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot  
+
+---
+
+## 🏆 Achievements
+
+🚀 10+ years experience in Growth Marketing across SEA  
+
+📊 Delivered analytics solutions across *7 countries*  
+
+💰 Generated high-impact campaigns with *$250K+ revenue*  
+
+🧠 Strong blend of *business strategy + data analytics*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaotracy&show_icons=true&theme=tokyonight" alt="Tracy's Stats" />
+  https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true  
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/tracy-nguyen](https://linkedin.com/in/YOURLINK)  
-[cite_start]📧 **Email:** [nguyenthithuthao0309@gmail.com](mailto:nguyenthithuthao0309@gmail.com) [cite: 5]  
-[cite_start]📍 **Location:** Woodlands, Singapore [cite: 6]
+💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/  
+📧 Email: nguyenthithuthao0309@gmail.com  
+
+🚀 Open to Data Analyst / Business Analyst opportunities
