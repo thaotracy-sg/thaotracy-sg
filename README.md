@@ -13,7 +13,7 @@
 </p>
 
 
-## 📍 PROFESSIONAL SUMMARY
+## 📍 Professional Summary
 
 🎓 M.Sc. Data Analytics & Visualization — Singapore University of Social Sciences (SUSS) 🇸🇬  
 📈 10+ years in Growth Marketing across SEA markets  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 CORE EXPERTISE
+## 🎯 Core Expertise
 
 ```
 Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Making
@@ -41,7 +41,7 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 
 ---
 
-## 📊 FEATURED PROJECTS
+## 📊 Feature Projects
 
 ### 🏢 Regional Sales Intelligence Dashboard
 **Problem:** Fragmented reporting across 7 SEA markets  
@@ -56,7 +56,7 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 **Outcome:** Improved forecasting accuracy and strengthened decision-making by aligning insights with real business performance  
 
 
-## 🧰 TECHNICAL STACK
+## 🧰 Technical Stack
 
 ### 📊 Data Analytics & Business Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,7 +77,7 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 
 ---
 
-## 📬 CONTACT
+## 📬 Connect with Me
 
 💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/
 📧 Email: nguyenthithuthao0309@gmail.com  
