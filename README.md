@@ -1,72 +1,72 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi,+I'm+Tracy+Nguyen;Data+Analytics+%7C+Former+Growth+Marketer;Turning+Data+into+Business+Impact;SQL+%7C+Python+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Tracy+Nguyen;Data+Analytics+%7C+Business+Intelligence;Growth+Marketing+→+Data+Science;SQL+%7C+Python+%7C+Power+BI" />
 </p>
 
 ---
 
-<br>
+## 📍 PROFESSIONAL SUMMARY
 
-## 👩‍💻 About Me
-
-🎓 M.Sc. Data Analytics & Visualization — SUSS (2025–2026)  
-📈 10+ years in Growth Marketing across SEA  
-📊 Transitioning into Data Analytics & BI  
+🎓 M.Sc. Data Analytics & Visualization — Singapore University of Social Sciences (SUSS) 🇸🇬  
+📈 10+ years in Growth Marketing across SEA markets  
+📊 Currently transitioning into Data Analytics & Business Intelligence  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Former-Growth%20Marketer-FF6B6B?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Now-Data%20Analyst-4A90E2?style=flat-square" />
-</p>
-
-<p align="center">
-  📈 Bridging Business Strategy, Marketing Intelligence & Data Analytics
+  <img src="https://img.shields.io/badge/Background-Growth%20Marketing-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00BFA6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Business%20Intelligence-4A90E2?style=flat-square" />
 </p>
 
 ---
 
-<br>
+## 🎯 CORE EXPERTISE
 
-## 📊 Featured Projects
+```
+Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Making
+```
+
+- 📊 Data Analysis & Visualization  
+- 📈 Business Intelligence Dashboards  
+- 🧠 Statistical Analysis & Forecasting  
+- 🔍 Marketing & Customer Analytics  
+- ⚙️ SQL-based Data Modeling  
+
+---
+
+## 📊 FEATURED PROJECTS
 
 ### 🏢 Regional Sales Intelligence Dashboard
-- Power BI dashboards for 7 SEA markets  
-- Healthcare device in-market sales analysis  
-- Improved regional decision visibility  
+**Problem:** Fragmented reporting across 7 SEA markets  
+**Solution:** Built Power BI dashboards for unified regional visibility  
+**Impact:** Improved decision-making for healthcare sales strategy  
 
-<br>
-
-### 🤖 AI Workforce Transition Analysis
-- SQL + Python + statistical modeling  
-- Singapore workforce AI readiness study  
-- Skill proximity mapping  
-
-<br>
+---
 
 ### 📉 Market Intelligence & Revenue Validation
-- Validated growth assumptions using data modeling  
-- Identified reporting gaps and inconsistencies  
+**Problem:** Misalignment between forecasted projections and actual business performance  
+**Solution:** Performed data validation, reconciliation, and analytical modeling to identify variance drivers  
+**Outcome:** Improved forecasting accuracy and strengthened decision-making by aligning insights with real business performance  
+
+
+## 🧰 TECHNICAL STACK
+
+### 📊 Analytics & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
-
-<br>
-
-## 🧰 Tech Stack
-
-### 📊 Data Analytics & BI
-
-(Python | R | SQL | Power BI | DAX | Excel badges)
-
-<br>
 
 ### 📈 Marketing Analytics
-
-(GA4 | HubSpot | GTM | Meta | Google Ads | TikTok | LinkedIn Ads badges)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-Ads-0668E1?style=for-the-badge)
+![Google Ads](https://img.shields.io/badge/Google-Ads-4285F4?style=for-the-badge)
 
 ---
 
-<br>
-
-## 📈 GitHub Stats
+## 📈 GITHUB INSIGHTS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thaotracy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -75,10 +75,22 @@
 
 ---
 
-<br>
+## 🧭 CAREER TRANSITION
 
-## 📬 Connect With Me
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B%20Years-Growth%20Marketing-FF6B6B?style=for-the-badge" />
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analytics-Transition-4A90E2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Bridging Business Strategy • Marketing Intelligence • Data Analytics
+</p>
+
+---
+
+## 📬 CONTACT
 
 💼 LinkedIn: YOUR LINK  
 📧 Email: YOUR EMAIL  
-🌐 Portfolio: YOUR SITE  
+🌐 Portfolio: YOUR github.io site  
