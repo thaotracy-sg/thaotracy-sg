@@ -1,96 +1,55 @@
 <p align="center">
-  https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;Data+Analytics+%7C+Former+Growth+Marketer;Turning+Data+into+Business+Impact;SQL+%7C+Python+%7C+Power+BI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;Data+Analytics+%7C+Former+Growth+Marketer;Turning+Data+into+Business+Impact;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎓 Education
-
-🎓 *Master’s in Data Analytics & Visualization*  
-Singapore University of Social Sciences (2025–2026)
-
-- Focus: SQL, Python, Power BI, Business Intelligence  
-- Specialized in translating data into actionable insights  
-- Strong foundation in statistical analysis & dashboard development  
+## ⚡ Quick Pitch
+[cite_start]**Marketing Architect ➔ Data Specialist**[cite: 3].  
+[cite_start]I bridge 10 years of regional growth expertise with advanced analytics to drive business impact across SEA[cite: 10, 11].
 
 ---
 
-## 🚀 About Me
+## 🛠️ Technical Ecosystem
 
-📊 Data-driven professional with *10+ years in Growth Marketing across Southeast Asia*, now specializing in Data Analytics  
-
-💼 Business Support Intern @ embecta (Healthcare Analytics & BI)  
-
-🌏 Experience across Singapore, Vietnam, Malaysia, Indonesia  
-
-📈 Key highlights:
-- Generated *$250K+ revenue* and managed *$1.5M portfolio*
-- Designed *Power BI dashboards across 7 markets*
-- Optimized funnels and drove ROI through data  
-
-🎯 Passionate about *bridging business strategy with data-driven decision-making*
+| **Data & BI** | **Growth & Automation** |
+| :--- | :--- |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Meta](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white) |
+| ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) |
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Impact Showcase
 
-### 📈 Regional Sales Dashboard (Power BI)
-- Built dashboards across *7 SEA markets*
-- Automated reporting & improved visibility for leadership  
+#### 📊 [Regional Sales Intelligence (Healthcare)](https://github.com/thaotracy)
+* [cite_start]**Scope:** Redesigned Power BI dashboards for **7 SEA markets** (SG, MY, TH, VN, ID, PH, PK)[cite: 18].
+* [cite_start]**Result:** Standardized reporting for General Managers & Sales Leads to drive regional strategy[cite: 18].
 
----
+#### 🤖 [AI Transition & Workforce Analytics](https://github.com/thaotracy)
+* **Thesis:** Analyzing skill proximity and AI readiness within the Singapore workforce.
+* **Insight:** Researching transition paths for Engineering and Data roles.
 
-### 💰 Growth Marketing Analytics
-- Analyzed multi-channel campaigns (GA4, Ads, CRM)  
-- Improved conversion rates through data insights  
-
----
-
-### 📊 Market Intelligence & Pricing Analysis
-- Conducted pricing research (SG & MY)  
-- Delivered insights to support product launch strategy  
+#### 📈 [Growth Revenue Engine](https://github.com/thaotracy)
+* [cite_start]**Scale:** Managed a **$1.5M portfolio** and generated **$250K+ in revenue**[cite: 31].
+* [cite_start]**Tech:** Multi-channel optimization across VN, MY, and SG[cite: 31].
 
 ---
 
-## 🧰 Technical Toolkit
-
-### 📊 Data & Analytics
-https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi  
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql  
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python  
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel  
-
-### 📈 Marketing & Growth
-https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics  
-https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook  
-https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads  
-https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot  
-
----
-
-## 🏆 Achievements
-
-🚀 10+ years experience in Growth Marketing across SEA  
-
-📊 Delivered analytics solutions across *7 countries*  
-
-💰 Generated high-impact campaigns with *$250K+ revenue*  
-
-🧠 Strong blend of *business strategy + data analytics*
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true  
+  <img src="https://github-readme-stats.vercel.app/api?username=thaotracy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaotracy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect & Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nguyenthithuthao0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/  
-📧 Email: nguyenthithuthao0309@gmail.com  
-
-🚀 Open to Data Analyst / Business Analyst opportunities
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thaotracy&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
