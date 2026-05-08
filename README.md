@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Thao 👋
 
-<!--
-**thaotracy-sg/thaotracy-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Data Analytics student passionate about:
+- Forecasting
+- SQL
+- Data visualization
+- Business analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying analytics and statistics  
+📊 Interested in predictive analytics  
+📈 Turning data into actionable insights  
+
+---
+
+## 📊 Featured Projects
+
+### 📈 Time Series Forecasting
+- Compared MA(1), MA(2), ARIMA, SES, Holt's Linear
+- Evaluated RMSE, MAE, and MAPE
+- Forecasted 2023 values
+
+🔗 [View Project](https://github.com/YOURUSERNAME/forecasting-project)
+
+---
+
+## 🧰 Technical Toolkit
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Connect with Me
+
+💼 LinkedIn: https://linkedin.com/in/YOURLINK  
+📧 Email: your@email.com# thaotracy
