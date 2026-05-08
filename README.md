@@ -1,49 +1,75 @@
-# 👋 Hi, I'm Tracy Nguyen | Growth & Data Analytics Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Tracy%20Nguyen&fontSize=70&animation=fadeIn" />
+</p>
 
-## 🚀 The Bridge Between Data & Growth
-[cite_start]I am a **Data Analytics Specialist** with a **10-year foundation in Growth Marketing** across Southeast Asia[cite: 3, 10]. [cite_start]Recently, I completed my **Master’s in Data Analytics** at the Singapore University of Social Sciences to focus on the technical side of business intelligence[cite: 3, 13].
+<p align="center">
+  <b>Growth Marketing Architect 🚀 | Data Analytics Specialist 📊</b><br>
+  <i>"Bridging 10 years of regional marketing expertise with data-driven intelligence."</i>
+</p>
 
-[cite_start]I specialize in transforming complex datasets into clear, actionable growth strategies that drive revenue and optimize regional operations[cite: 13, 18, 32].
-
----
-
-### 🛠️ Technical & Strategic Toolkit
-
-| **Data & Analytics** | **Growth & Performance** | **Strategy & Leadership** |
-| :--- | :--- | :--- |
-| [cite_start]Python, SQL, Excel [cite: 13] | [cite_start]Meta, Google, LinkedIn, TikTok Ads [cite: 12] | [cite_start]Regional Strategy (SG, VN, MY, ID) [cite: 11] |
-| [cite_start]Power BI & DAX [cite: 13, 24] | [cite_start]GA4 & Google Tag Manager [cite: 12, 52] | [cite_start]Stakeholder Management [cite: 24] |
-| [cite_start]Dashboard Automation [cite: 13] | [cite_start]HubSpot CRM & Marketing Automation [cite: 12, 50] | [cite_start]Requirement Gathering & User Stories [cite: 18] |
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Singapore-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Master's-Data%20Analytics-orange?style=flat-square&logo=googlescholar&logoColor=white" />
+</p>
 
 ---
 
-### 📈 Career Highlights & Impact
-
-* [cite_start]**Regional Data Transformation:** Redesigned regional In-Market Sales dashboards for **embecta**, streamlining reporting across 7 SEA markets for C-suite sign-off[cite: 18].
-* [cite_start]**Revenue Generation:** Managed a **$1.5M client portfolio** and generated **$250K+ in revenue** through data-driven campaigns at Supermom[cite: 31].
-* [cite_start]**Team Leadership:** Led cross-functional teams of growth, CRM, and SEO specialists to improve funnel health and acquisition efficiency[cite: 38].
-* [cite_start]**Market Intelligence:** Conducted deep-dive competitive pricing research and validated revenue models to align corporate growth assumptions with ground-level market realities[cite: 19, 20].
+### 🚀 At a Glance
+* [cite_start]**Professional Pivot:** Transitioned from a decade in Digital & Performance Marketing (2014–2024) to Data Analytics[cite: 3, 10, 13].
+* [cite_start]**Regional Impact:** Managed high-impact campaigns and $1.5M portfolios across Singapore, Vietnam, Malaysia, and Indonesia[cite: 11, 31].
+* [cite_start]**Recent Milestone:** Completed M.Sc. in Data Analytics at Singapore University of Social Sciences (SUSS)[cite: 13, 94, 98].
 
 ---
 
-### 🧪 Featured Projects
+### 🛠️ Technical & Digital Ecosystem
 
-#### 📊 [Regional Sales Intelligence Dashboard](https://github.com/your-repo-link)
-Built a "Single Source of Truth" Power BI dashboard for healthcare business leaders.
-* [cite_start]**Key Tech:** Power BI, DAX, Stakeholder Interviewing[cite: 18, 24].
-* [cite_start]**Impact:** Unified reporting across 7 countries, ensuring consistent visibility for Marketing and General Managers[cite: 18].
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-black?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+  <br>
+  <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+</p>
 
-#### 🤖 [AI Transition & Workforce Proximity Analysis](https://github.com/your-repo-link)
-A Master's thesis project analyzing the readiness of the Singapore workforce for AI integration.
-* [cite_start]**Key Tech:** Python, Statistical Analysis, Source Mapping[cite: 13].
-* **Insight:** Identifying skill clusters in Engineering and Data roles for strategic career pivots.
+---
+
+### 📊 Highlighted Impact
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📈 Regional Sales Intelligence</h4>
+      [cite_start]<p>Redesigned Power BI dashboards for 7 SEA markets, standardizing reporting for regional business leaders and sales teams[cite: 18].</p>
+      <code>Power BI</code> <code>DAX</code> <code>Requirement Gathering</code>
+    </td>
+    <td width="50%">
+      <h4>🤖 AI Transition & Workforce</h4>
+      <p>Master's thesis project analyzing skill proximity and AI readiness within the Singapore workforce.</p>
+      <code>Python</code> <code>Statistical Analysis</code> <code>Source Mapping</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
-* [cite_start]📍 Based in **Woodlands, Singapore** [cite: 6]
-* [cite_start]📧 [nguyenthithuthao0309@gmail.com](mailto:nguyenthithuthao0309@gmail.com) [cite: 5]
-* 💼 [LinkedIn](your-linkedin-link-here)
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thaotracy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaotracy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 ---
-*“I believe data is only as good as the decisions it inspires.”*
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/[YOUR_PROFILE]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nguyenthithuthao0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thaotracy&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
