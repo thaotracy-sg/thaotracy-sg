@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;M.Sc.+Data+Analytics+Specialist;10+Years+Growth+Marketing+Expert;Bridging+Business+Strategy+%7C+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi,+I'm+Tracy;10+Years+Growth+Marketer;Bridging+Business+Strategy+%7C+Data+Science" alt="Typing SVG" />
 </p>
----
 
 ## 👩‍💻 About Me
 
-📍 Singapore 🇸🇬  
 🎓 M.Sc. Data Analytics & Visualization — SUSS (2025–2026)  
-📈 10+ years in Growth Marketing across SEA  
+📈 10+ years in Growth Marketing across SEA region 
 📊 Transitioning into Data Analytics & Business Intelligence  
 
 I combine business strategy experience with analytics skills to solve real-world business problems through data-driven insights.
@@ -27,7 +25,7 @@ I combine business strategy experience with analytics skills to solve real-world
 ## 📊 Featured Projects
 
 📌 **Regional Sales Intelligence Dashboard**  
-Power BI dashboards for 7 SEA markets with automated KPI reporting.
+Power BI dashboards for 7 SEA markets for In Market Sale of Healthcare devices.
 
 📌 **AI Workforce Transition Analysis**  
 Researching AI readiness using SQL, Python & statistical modeling.
@@ -35,6 +33,8 @@ Researching AI readiness using SQL, Python & statistical modeling.
 📌 **Market Intelligence & Revenue Validation**  
 Validated growth assumptions using business analytics and data modeling.
 
+📌 **Other Academic Projects**  
+Completed various analytics and programming projects during the M.Sc. program.
 ---
 
 ## 🧰 Tech Stack
@@ -44,6 +44,12 @@ Validated growth assumptions using business analytics and data modeling.
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+### **Data Science & Business Intelligence**
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-black?style=for-the-badge&logo=powerbi&logoColor=yellow) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) [cite: 13, 23, 24]
+
+### **Growth & Marketing Automation**
+[cite_start]![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) ![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white) ![Meta](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
