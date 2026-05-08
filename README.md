@@ -47,20 +47,22 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 
 ## 🧰 TECHNICAL STACK
 
-### 📊 Analytics & BI
+### 📊 Data Analytics & Business Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-black?style=for-the-badge&logo=powerbi&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
-
-### 📈 Marketing Analytics
+### 📈 Growth & Marketing Analytics
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-Ads-0668E1?style=for-the-badge)
-![Google Ads](https://img.shields.io/badge/Google-Ads-4285F4?style=for-the-badge)
+![Meta](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
