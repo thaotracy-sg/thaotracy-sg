@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Tracy+Nguyen;Data+Analytics+%7C+Business+Intelligence;Growth+Marketing+→+Data+Science;SQL+%7C+Python+%7C+Power+BI" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;Data+Analytics+%7C+Former+Growth+Marketer;Turning+Data+into+Business+Impact;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" /> </p>
 
 ---
 
