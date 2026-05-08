@@ -66,31 +66,8 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 
 ---
 
-## 📈 GITHUB INSIGHTS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaotracy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaotracy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-## 🧭 CAREER TRANSITION
-
-<p align="center">
-  <img src="https://img.shields.io/badge/10%2B%20Years-Growth%20Marketing-FF6B6B?style=for-the-badge" />
-  &nbsp;→&nbsp;
-  <img src="https://img.shields.io/badge/Data%20Analytics-Transition-4A90E2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  Bridging Business Strategy • Marketing Intelligence • Data Analytics
-</p>
-
----
-
 ## 📬 CONTACT
 
-💼 LinkedIn: YOUR LINK  
-📧 Email: YOUR EMAIL  
-🌐 Portfolio: YOUR github.io site  
+💼 LinkedIn: [YOUR LINK](https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/)  
+📧 Email: nguyenthithuthao0309@gmail.com  
+🌐 Portfolio: TBU  
