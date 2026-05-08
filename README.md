@@ -2,6 +2,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 ## 📍 PROFESSIONAL SUMMARY
 
 🎓 M.Sc. Data Analytics & Visualization — Singapore University of Social Sciences (SUSS) 🇸🇬  
@@ -68,6 +79,6 @@ Business Strategy  →  Data Analysis  →  Insight Generation  →  Decision Ma
 
 ## 📬 CONTACT
 
-💼 LinkedIn: [YOUR LINK](https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/)  
+💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/
 📧 Email: nguyenthithuthao0309@gmail.com  
 🌐 Portfolio: TBU  
