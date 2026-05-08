@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Tracy+Nguyen;M.Sc.+Data+Analytics+Candidate+🇸🇬;Growth+Marketing+→+Data+Analytics;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tracy+Nguyen;M.Sc.+Data+Analytics+Specialist;10+Years+Growth+Marketing+Expert;Bridging+Business+Strategy+%7C+Data+Science" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
