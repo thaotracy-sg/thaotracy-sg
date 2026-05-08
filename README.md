@@ -5,15 +5,7 @@
 ## 👩‍💻 About Me
 
 🎓 M.Sc. Data Analytics & Visualization — SUSS (2025–2026)  
-📈 10+ years in Growth Marketing across SEA region 
-📊 Transitioning into Data Analytics & Business Intelligence  
-
-I combine business strategy experience with analytics skills to solve real-world business problems through data-driven insights.
-
----
-
-## 🔄 Career Transition
-
+📈 10+ years in Growth Marketing across SEA region 📊 Transitioning into Data Analytics & Business Intelligence 
 <p align="center">
   <img src="https://img.shields.io/badge/Former-Growth%20Marketer-FF6B6B?style=flat-square&logo=googleanalytics&logoColor=white" />
   &nbsp;
@@ -23,7 +15,6 @@ I combine business strategy experience with analytics skills to solve real-world
 <p align="center">
   📈 Bridging Business Strategy, Marketing Intelligence & Data Analytics
 </p>
----
 
 ## 📊 Featured Projects
 
