@@ -15,15 +15,10 @@ I combine business strategy experience with analytics skills to solve real-world
 ## 🔄 Career Transition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Former-Growth%20Marketing%20Lead-6C63FF?style=flat-square&logo=googleanalytics&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Now-Data%20Analytics%20Specialist-00BFA6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth%20Marketing-10%2B%20Years-555555?style=flat-square" />
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analytics-Transition-2E86AB?style=flat-square" />
 </p>
-
-<p align="center">
-  📈 Bridging Business Strategy, Marketing Intelligence & Data Analytics
-</p>
-
 ---
 
 ## 📊 Featured Projects
