@@ -29,17 +29,11 @@
 > These repositories showcase applied analytics work completed during my Master's programme.
 > All datasets are publicly available or anonymised.
 
-| Project | Tools | Topic |
-|---|---|---|
-| 🔋 [Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) | R · forecast · ggplot2 | Time series — MA, ARIMA, Holt's, Europe & Central Asia |
-| 📱 [Mobile Game Downloads — Panel Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) | R · plm · ggplot2 | Fixed & Random Effects · Hausman test |
-| 🌿 [Sustainable Brand Choice](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) | R · glm · broom | Binary Logit · Odds ratios · FE Model · RE Model · Consumer behaviour |
-
 | Project | Tools & Stack | Focus Area |
 |---|---|---|
 | 🔋 [Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) | R · forecast · ggplot2 | Time series forecasting · MA · ARIMA · Holt's methods |
 | 📱 [Mobile Game Downloads — Panel Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) | R · plm · ggplot2 | Panel regression · Fixed/Random effects · Hausman test |
-| 🌿 [Sustainable Brand Choice](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) | R · glm · broom | Binary logit modelling · Consumer behaviour analytics |
+| 🌿 [Sustainable Brand Choice](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) | R · glm · broom | Binary Logit · Odds ratios · Fixed/Random effects · Consumer behaviour |
 | 🛒 [Shopping Mall Customer Survey — Data Pipeline & SQL Analytics](https://github.com/thaotracy-sg/sql-r-customer-survey-pipeline) | Python · MySQL · R · SQLAlchemy · ggplot2 | End-to-end ETL pipeline · SQL aggregation · Customer analytics |
 
 ## 📊 Key Work Projects
