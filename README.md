@@ -31,9 +31,9 @@
 
 | Project | Tools | Topic |
 |---|---|---|
-| 🔋 [Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/electric-power-co2-forecasting-europe) | R · forecast · ggplot2 | Time series — MA, ARIMA, Holt's, Europe & Central Asia |
-| 📱 [Mobile Game Downloads — Panel Analysis](https://github.com/thaotracy-sg) | R · plm · ggplot2 | Fixed & Random Effects · Hausman test |
-| 🌿 [Sustainable Brand Choice](https://github.com/thaotracy-sg) | R · glm · broom | Binary Logit · Odds ratios · Consumer behaviour |
+| 🔋 [Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) | R · forecast · ggplot2 | Time series — MA, ARIMA, Holt's, Europe & Central Asia |
+| 📱 [Mobile Game Downloads — Panel Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) | R · plm · ggplot2 | Fixed & Random Effects · Hausman test |
+| 🌿 [Sustainable Brand Choice](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) | R · glm · broom | Binary Logit · Odds ratios · FE Model · RE Model · Consumer behaviour |
 
 ## 📊 Work Projects
 
