@@ -74,8 +74,7 @@
 ---
 ## 📊 What I Bring That's Rare
 
-Most data analysts have strong technical skills but limited business exposure.
-Most marketers have strong business instincts but limited data skills.
+I combine analytics expertise with strong cross-functional understanding across marketing, sales, and regional operations - enabling data-driven decisions grounded in real business context.
 
 | Capability | Details |
 |---|---|
