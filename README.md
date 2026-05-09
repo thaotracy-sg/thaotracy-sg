@@ -86,6 +86,6 @@ Most marketers have strong business instincts but limited data skills.
 
 ## 📬 Connect with Me
 
-[💼 LinkedIn](https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/) <br>
-[📧 Email](mailto:nguyenthithuthao0309@gmail.com)
-🌐 Portfolio: TBU  
+💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/ <br>
+📧 Email: nguyenthithuthao0309@gmail.com <br>
+🌐 Portfolio: TBU
