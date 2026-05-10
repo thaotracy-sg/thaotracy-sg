@@ -38,7 +38,7 @@
 
 ## 📊 Key Work Projects
 
-### 🏢 Regional Sales Intelligence Dashboard
+### [🏢 Regional Sales Intelligence Dashboard](https://github.com/thaotracy-sg/powerbi-ims-dashboard-enhancement-healthcare)
 **Problem:** Fragmented reporting across 7 SEA markets  
 **Solution:** Built Power BI dashboards for unified regional visibility  
 **Impact:** Improved decision-making for healthcare sales strategy  
