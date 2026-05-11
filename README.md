@@ -88,4 +88,3 @@ I combine analytics expertise with strong cross-functional understanding across 
 
 💼 LinkedIn: https://www.linkedin.com/in/thao-nguyen-tracy-14b303a1/ <br>
 📧 Email: nguyenthithuthao0309@gmail.com <br>
-🌐 Portfolio: TBU
